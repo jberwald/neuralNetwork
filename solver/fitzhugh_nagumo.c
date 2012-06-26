@@ -35,6 +35,12 @@
 /* #define NO_IMPORT_ARRAY */
 /* #include <numpy/arrayobject.h> */
 
+static double sigmoid(double x, double theta);
+static void coupling_sum(double a[], 
+			 double b[], 
+			 double c[], 
+			 Pstruct *p, 
+			 const double s[]);
 
 /* ==== for indexing ==== */
 int i, j;

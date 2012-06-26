@@ -83,11 +83,5 @@ void array_check(PyArrayObject *arr);
 
 /* ==== prototypes for FITZHUGH_NAGUMO.C visible to NEURONS.C ==== */
 int dfdt(double t, const double state[], double f[], void *p);
-static double sigmoid(double x, double theta);
-static void coupling_sum(double a[], 
-			 double b[], 
-			 double c[], 
-			 Pstruct *p, 
-			 const double s[]);
 
 #endif
