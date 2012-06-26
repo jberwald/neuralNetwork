@@ -60,8 +60,8 @@ if sys.platform == 'darwin':
        
 # sets paths to typical linux locations
 elif sys.platform == 'linux2':
-       GSL_INCLUDE = '${HOME}/local/include/'
-       GSL_LIB = '$/usr/lib/'
+       GSL_INCLUDE = '$usr/local/include/'
+       GSL_LIB = '$/usr/local/lib/'
        ARCH = ''
        compile_args = ['-O3', '-DHAVE_INLINE', '-msse3'] #'-march=native']
 
