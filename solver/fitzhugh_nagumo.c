@@ -16,6 +16,10 @@
 #include <math.h>
 #include <gsl/gsl_errno.h>
 
+#ifndef _neurons_ARRAY_API 
+#define _neurons_ARRAY_API 
+#endif
+
 /* #ifdef malloc */
 /* #undef malloc */
 /* #define malloc PyMem_Malloc */

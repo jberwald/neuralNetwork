@@ -17,6 +17,9 @@ to gcc. This forces the wrong arch for many dynamically linked
 executables, which are built with 64bit arch. This is fixed below with
 the hackish code forcing the sysconfig variables to their correct
 values.
+
+*****
+ ON OSX, 
                                                                               
 '''
 from distutils.core import setup, Extension
@@ -58,7 +61,7 @@ if sys.platform == 'darwin':
 # sets paths to typical linux locations
 elif sys.platform == 'linux2':
        GSL_INCLUDE = '${HOME}/local/include/'
-       GSL_LIB = '${HOME}/local/lib/'
+       GSL_LIB = '$/usr/lib/'
        ARCH = ''
        compile_args = ['-O3', '-DHAVE_INLINE', '-msse3'] #'-march=native']
 

@@ -1,3 +1,0 @@
-g_InIn	0.32
-g_InEx	0.8
-g_ExIn	0.2
