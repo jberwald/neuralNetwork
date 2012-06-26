@@ -262,7 +262,7 @@ if __name__ == "__main__":
         # initialize the network
         if options.connvec:
             if options.debug:
-                print "connvec", connvec
+                print "Connection vector, connvec", connvec
             neuralNetwork = network.Network( G, epsilon_vec=epsvec,
                                              g_ExIn=connvec['g_ExIn'],
                                              g_InEx=connvec['g_InEx'],
