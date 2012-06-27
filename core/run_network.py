@@ -3,7 +3,7 @@ import networkx as NX
 import numpy
 import optparse, sys, shutil
 import cPickle as pkl
-from neural_network.core import timeseries as TS
+import timeseries as TS
 try:
     from neural_network.C import neurons_file_cells as neurons
 except ImportError:

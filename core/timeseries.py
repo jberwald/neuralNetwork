@@ -1,7 +1,7 @@
 #!/usr/bin python
 import numpy, pylab, time
-from neural_network.netutils import fileio, utils
-from neural_network.core import fitfunc
+from netutils import fileio, utils
+#import fitfunc
 
 #from matplotlib.cbook import report_memory
 
