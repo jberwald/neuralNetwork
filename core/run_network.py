@@ -256,7 +256,7 @@ if __name__ == "__main__":
                       type="string",
                       action="store",
                       dest="graph_name",
-                      default='graph.1.30.pkl')
+                      default='./data/graph.1.30.pkl')
     parser.add_option("--epsvec", "-e",
                       help=epsvec_help,
                       type="string",
@@ -273,7 +273,7 @@ if __name__ == "__main__":
                       type="string",
                       action="store",
                       dest="savedir",
-                      default="/data/jberwald/neurons/test/")
+                      default="./debug/")
     parser.add_option("--debug", "-d",
                       help=debug_help,
                       action="store_true",
