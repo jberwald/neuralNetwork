@@ -3,14 +3,15 @@ import networkx as NX
 import numpy
 import optparse, sys, shutil
 import cPickle as pkl
+from neural_network.core import timeseries as TS
 try:
     from neural_network.C import neurons_file_cells as neurons
-    from neural_network.core import timeseries as TS
 except ImportError:
     import neurons_file_cells as neurons
     print "Could not load neurons*.so (or similar) module. "\
         "Will try to continue with local version..." 
     pass
+
 
 def make_input_dict( neural_network, extE=0.5, extI=0.3 ):
     """
@@ -129,7 +130,7 @@ def run_simulation( neural_network, tfinal, **args ):
                                    numpy.asarray( nn.C_ie ),
                                    numpy.asarray( nn.C_ii),
                                    neural_network.initvec, #uinit,
-                                   make_input_dict( theNetwork ),#cell_input, 
+                                   make_input_dict( neural_network ),#cell_input, 
                                    fargs['dt'], 
                                    nn.EDIM,
                                    nn.IDIM,

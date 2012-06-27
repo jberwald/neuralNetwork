@@ -1,0 +1,1544 @@
+opening connections...
+success!
+your transfer object is  <paramiko.Transport at 0x8eb24ecL (cipher aes128-cbc, 128 bits) (active; 1 open channel(s))>
+g  0
+e  4
+c  1
+folder  n10g0e4c1s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c1s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c1s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c1s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c1s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c1s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c1s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c1s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c1s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c1s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c1s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c1s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c1s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  4
+c  2
+folder  n10g0e4c2s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c2s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c2s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c2s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c2s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c2s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c2s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c2s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c2s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c2s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c2s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c2s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c2s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  4
+c  3
+folder  n10g0e4c3s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c3s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c3s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c3s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c3s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c3s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c3s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c3s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c3s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c3s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c3s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c3s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c3s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  4
+c  4
+folder  n10g0e4c4s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c4s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c4s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c4s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c4s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c4s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c4s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c4s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c4s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c4s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c4s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c4s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c4s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  4
+c  5
+folder  n10g0e4c5s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c5s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c5s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c5s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c5s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c5s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c5s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c5s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c5s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c5s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c5s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c5s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c5s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  4
+c  6
+folder  n10g0e4c6s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c6s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c6s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c6s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c6s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c6s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c6s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c6s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c6s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c6s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c6s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c6s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c6s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  4
+c  7
+folder  n10g0e4c7s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c7s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c7s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c7s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c7s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c7s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c7s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c7s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c7s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c7s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c7s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g0e4c7s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g0e4c7s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  4
+c  1
+folder  n10g1e4c1s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c1s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c1s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c1s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c1s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c1s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c1s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c1s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c1s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c1s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c1s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c1s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c1s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  4
+c  2
+folder  n10g1e4c2s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c2s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c2s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c2s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c2s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c2s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c2s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c2s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c2s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c2s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c2s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c2s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c2s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  4
+c  3
+folder  n10g1e4c3s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c3s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c3s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c3s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c3s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c3s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c3s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c3s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c3s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c3s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c3s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c3s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c3s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  4
+c  4
+folder  n10g1e4c4s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c4s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c4s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c4s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c4s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c4s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c4s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c4s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c4s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c4s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c4s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c4s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c4s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  4
+c  5
+folder  n10g1e4c5s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c5s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c5s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c5s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c5s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c5s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c5s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c5s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c5s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c5s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c5s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c5s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c5s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  4
+c  6
+folder  n10g1e4c6s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c6s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c6s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c6s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c6s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c6s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c6s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c6s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c6s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c6s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c6s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c6s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c6s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  4
+c  7
+folder  n10g1e4c7s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c7s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c7s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c7s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c7s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c7s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c7s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c7s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c7s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c7s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c7s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g1e4c7s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g1e4c7s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  4
+c  1
+folder  n10g2e4c1s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c1s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c1s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c1s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c1s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c1s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c1s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c1s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c1s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c1s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c1s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c1s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c1s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  4
+c  2
+folder  n10g2e4c2s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c2s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c2s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c2s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c2s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c2s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c2s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c2s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c2s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c2s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c2s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c2s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c2s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  4
+c  3
+folder  n10g2e4c3s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c3s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c3s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c3s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c3s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c3s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c3s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c3s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c3s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c3s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c3s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c3s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c3s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  4
+c  4
+folder  n10g2e4c4s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c4s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c4s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c4s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c4s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c4s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c4s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c4s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c4s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c4s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c4s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c4s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c4s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  4
+c  5
+folder  n10g2e4c5s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c5s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c5s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c5s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c5s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c5s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c5s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c5s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c5s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c5s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c5s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c5s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c5s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  4
+c  6
+folder  n10g2e4c6s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c6s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c6s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c6s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c6s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c6s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c6s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c6s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c6s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c6s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c6s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c6s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c6s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  4
+c  7
+folder  n10g2e4c7s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c7s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c7s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c7s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c7s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c7s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c7s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c7s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c7s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c7s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c7s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g2e4c7s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g2e4c7s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  4
+c  1
+folder  n10g3e4c1s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c1s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c1s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c1s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c1s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c1s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c1s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c1s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c1s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c1s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c1s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c1s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c1s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  4
+c  2
+folder  n10g3e4c2s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c2s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c2s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c2s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c2s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c2s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c2s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c2s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c2s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c2s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c2s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c2s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c2s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  4
+c  3
+folder  n10g3e4c3s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c3s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c3s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c3s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c3s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c3s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c3s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c3s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c3s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c3s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c3s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c3s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c3s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  4
+c  4
+folder  n10g3e4c4s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c4s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c4s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c4s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c4s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c4s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c4s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c4s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c4s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c4s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c4s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c4s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c4s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  4
+c  5
+folder  n10g3e4c5s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c5s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c5s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c5s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c5s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c5s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c5s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c5s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c5s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c5s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c5s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c5s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c5s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  4
+c  6
+folder  n10g3e4c6s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c6s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c6s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c6s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c6s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c6s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c6s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c6s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c6s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c6s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c6s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c6s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c6s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  4
+c  7
+folder  n10g3e4c7s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c7s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c7s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c7s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c7s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c7s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c7s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c7s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c7s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c7s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c7s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g3e4c7s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g3e4c7s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  4
+c  1
+folder  n10g4e4c1s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c1s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c1s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c1s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c1s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c1s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c1s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c1s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c1s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c1s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c1s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c1s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c1s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  4
+c  2
+folder  n10g4e4c2s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c2s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c2s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c2s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c2s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c2s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c2s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c2s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c2s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c2s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c2s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c2s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c2s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  4
+c  3
+folder  n10g4e4c3s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c3s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c3s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c3s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c3s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c3s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c3s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c3s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c3s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c3s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c3s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c3s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c3s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  4
+c  4
+folder  n10g4e4c4s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c4s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c4s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c4s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c4s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c4s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c4s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c4s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c4s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c4s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c4s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c4s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c4s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  4
+c  5
+folder  n10g4e4c5s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c5s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c5s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c5s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c5s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c5s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c5s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c5s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c5s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c5s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c5s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c5s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c5s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  4
+c  6
+folder  n10g4e4c6s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c6s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c6s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c6s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c6s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c6s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c6s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c6s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c6s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c6s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c6s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c6s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c6s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  4
+c  7
+folder  n10g4e4c7s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c7s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c7s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c7s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c7s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c7s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c7s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c7s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c7s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c7s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c7s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g4e4c7s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g4e4c7s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  4
+c  1
+folder  n10g5e4c1s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c1s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c1s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c1s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c1s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c1s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c1s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c1s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c1s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c1s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c1s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c1s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c1s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  4
+c  2
+folder  n10g5e4c2s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c2s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c2s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c2s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c2s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c2s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c2s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c2s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c2s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c2s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c2s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c2s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c2s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  4
+c  3
+folder  n10g5e4c3s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c3s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c3s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c3s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c3s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c3s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c3s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c3s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c3s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c3s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c3s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c3s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c3s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  4
+c  4
+folder  n10g5e4c4s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c4s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c4s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c4s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c4s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c4s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c4s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c4s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c4s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c4s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c4s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c4s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c4s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  4
+c  5
+folder  n10g5e4c5s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c5s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c5s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c5s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c5s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c5s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c5s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c5s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c5s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c5s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c5s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c5s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c5s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  4
+c  6
+folder  n10g5e4c6s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c6s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c6s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c6s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c6s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c6s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c6s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c6s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c6s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c6s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c6s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c6s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c6s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  4
+c  7
+folder  n10g5e4c7s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c7s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c7s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c7s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c7s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c7s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c7s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c7s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c7s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c7s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c7s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g5e4c7s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g5e4c7s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  4
+c  1
+folder  n10g6e4c1s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c1s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c1s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c1s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c1s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c1s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c1s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c1s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c1s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c1s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c1s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c1s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c1s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  4
+c  2
+folder  n10g6e4c2s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c2s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c2s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c2s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c2s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c2s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c2s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c2s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c2s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c2s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c2s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c2s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c2s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  4
+c  3
+folder  n10g6e4c3s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c3s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c3s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c3s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c3s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c3s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c3s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c3s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c3s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c3s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c3s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c3s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c3s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  4
+c  4
+folder  n10g6e4c4s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c4s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c4s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c4s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c4s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c4s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c4s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c4s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c4s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c4s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c4s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c4s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c4s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  4
+c  5
+folder  n10g6e4c5s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c5s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c5s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c5s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c5s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c5s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c5s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c5s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c5s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c5s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c5s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c5s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c5s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  4
+c  6
+folder  n10g6e4c6s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c6s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c6s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c6s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c6s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c6s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c6s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c6s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c6s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c6s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c6s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c6s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c6s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  4
+c  7
+folder  n10g6e4c7s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c7s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c7s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c7s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c7s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c7s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c7s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c7s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c7s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c7s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c7s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g6e4c7s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g6e4c7s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  4
+c  1
+folder  n10g7e4c1s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c1s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c1s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c1s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c1s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c1s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c1s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c1s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c1s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c1s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c1s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c1s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c1s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  4
+c  2
+folder  n10g7e4c2s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c2s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c2s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c2s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c2s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c2s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c2s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c2s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c2s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c2s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c2s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c2s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c2s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  4
+c  3
+folder  n10g7e4c3s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c3s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c3s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c3s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c3s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c3s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c3s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c3s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c3s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c3s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c3s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c3s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c3s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  4
+c  4
+folder  n10g7e4c4s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c4s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c4s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c4s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c4s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c4s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c4s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c4s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c4s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c4s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c4s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c4s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c4s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  4
+c  5
+folder  n10g7e4c5s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c5s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c5s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c5s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c5s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c5s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c5s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c5s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c5s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c5s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c5s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c5s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c5s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  4
+c  6
+folder  n10g7e4c6s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c6s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c6s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c6s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c6s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c6s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c6s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c6s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c6s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c6s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c6s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c6s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c6s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  4
+c  7
+folder  n10g7e4c7s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c7s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c7s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c7s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c7s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c7s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c7s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c7s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c7s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c7s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c7s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g7e4c7s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g7e4c7s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  4
+c  1
+folder  n10g8e4c1s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c1s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c1s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c1s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c1s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c1s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c1s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c1s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c1s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c1s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c1s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c1s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c1s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  4
+c  2
+folder  n10g8e4c2s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c2s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c2s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c2s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c2s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c2s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c2s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c2s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c2s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c2s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c2s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c2s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c2s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  4
+c  3
+folder  n10g8e4c3s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c3s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c3s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c3s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c3s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c3s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c3s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c3s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c3s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c3s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c3s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c3s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c3s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  4
+c  4
+folder  n10g8e4c4s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c4s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c4s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c4s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c4s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c4s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c4s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c4s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c4s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c4s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c4s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c4s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c4s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  4
+c  5
+folder  n10g8e4c5s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c5s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c5s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c5s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c5s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c5s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c5s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c5s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c5s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c5s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c5s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c5s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c5s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  4
+c  6
+folder  n10g8e4c6s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c6s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c6s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c6s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c6s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c6s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c6s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c6s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c6s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c6s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c6s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c6s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c6s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  4
+c  7
+folder  n10g8e4c7s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c7s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c7s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c7s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c7s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c7s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c7s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c7s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c7s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c7s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c7s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g8e4c7s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g8e4c7s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  4
+c  1
+folder  n10g9e4c1s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c1s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c1s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c1s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c1s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c1s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c1s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c1s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c1s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c1s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c1s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c1s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c1s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  4
+c  2
+folder  n10g9e4c2s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c2s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c2s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c2s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c2s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c2s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c2s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c2s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c2s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c2s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c2s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c2s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c2s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  4
+c  3
+folder  n10g9e4c3s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c3s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c3s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c3s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c3s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c3s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c3s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c3s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c3s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c3s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c3s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c3s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c3s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  4
+c  4
+folder  n10g9e4c4s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c4s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c4s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c4s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c4s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c4s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c4s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c4s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c4s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c4s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c4s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c4s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c4s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  4
+c  5
+folder  n10g9e4c5s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c5s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c5s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c5s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c5s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c5s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c5s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c5s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c5s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c5s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c5s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c5s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c5s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  4
+c  6
+folder  n10g9e4c6s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c6s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c6s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c6s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c6s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c6s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c6s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c6s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c6s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c6s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c6s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c6s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c6s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  4
+c  7
+folder  n10g9e4c7s0/
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c7s0/dfaplot_v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c7s0/dfaplot_v.0.0.pdf
+transfer of  dfaplot_v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c7s0/findiff_dfa.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c7s0/findiff_dfa.pdf
+transfer of  findiff_dfa.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c7s0/ts_binned.v.0.0.pdf
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c7s0/ts_binned.v.0.0.pdf
+transfer of  ts_binned.v.0.0.pdf  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c7s0/eps
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c7s0/eps
+transfer of  eps  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c7s0/graph.pkl
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c7s0/graph.pkl
+transfer of  graph.pkl  successful
+remote  /data/jberwald/tests/fitness_tests/network_topology/n10g9e4c7s0/avgvolt.sr.1.v.0.dfa
+local  /home/data/jberwald/tests/fitness_tests/network_topology/n10g9e4c7s0/avgvolt.sr.1.v.0.dfa
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+done

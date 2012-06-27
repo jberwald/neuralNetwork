@@ -1,0 +1,5404 @@
+opening connections...
+success!
+your transfer object is  <paramiko.Transport at 0x8f914ecL (cipher aes128-cbc, 128 bits) (active; 1 open channel(s))>
+g  0
+e  5
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  5
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  5
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  5
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  5
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  5
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  5
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  5
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  5
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  5
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  6
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  6
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  6
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  6
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  6
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  6
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  6
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  6
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  6
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  6
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  7
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  7
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  7
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  7
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  7
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  7
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  7
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  7
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  7
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  7
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  8
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  8
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  8
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  8
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  8
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  8
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  8
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  8
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  8
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  8
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  9
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  9
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  9
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  9
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  9
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  9
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  9
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  9
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  9
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  9
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  10
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  10
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  10
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  10
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  10
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  10
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  10
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  10
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  10
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  0
+e  10
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  5
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  5
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  5
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  5
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  5
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  5
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  5
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  5
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  5
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  5
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  6
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  6
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  6
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  6
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  6
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  6
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  6
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  6
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  6
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  6
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  7
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  7
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  7
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  7
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  7
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  7
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  7
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  7
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  7
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  7
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  8
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  8
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  8
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  8
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  8
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  8
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  8
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  8
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  8
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  8
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  9
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  9
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  9
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  9
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  9
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  9
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  9
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  9
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  9
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  9
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  10
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  10
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  10
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  10
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  10
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  10
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  10
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  10
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  10
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  1
+e  10
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  5
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  5
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  5
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  5
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  5
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  5
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  5
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  5
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  5
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  5
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  6
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  6
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  6
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  6
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  6
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  6
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  6
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  6
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  6
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  6
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  7
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  7
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  7
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  7
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  7
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  7
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  7
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  7
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  7
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  7
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  8
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  8
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  8
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  8
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  8
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  8
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  8
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  8
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  8
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  8
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  9
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  9
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  9
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  9
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  9
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  9
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  9
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  9
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  9
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  9
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  10
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  10
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  10
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  10
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  10
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  10
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  10
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  10
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  10
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  2
+e  10
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  5
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  5
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  5
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  5
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  5
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  5
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  5
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  5
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  5
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  5
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  6
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  6
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  6
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  6
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  6
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  6
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  6
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  6
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  6
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  6
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  7
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  7
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  7
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  7
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  7
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  7
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  7
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  7
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  7
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  7
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  8
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  8
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  8
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  8
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  8
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  8
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  8
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  8
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  8
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  8
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  9
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  9
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  9
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  9
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  9
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  9
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  9
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  9
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  9
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  9
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  10
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  10
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  10
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  10
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  10
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  10
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  10
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  10
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  10
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  3
+e  10
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  5
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  5
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  5
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  5
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  5
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  5
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  5
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  5
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  5
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  5
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  6
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  6
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  6
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  6
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  6
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  6
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  6
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  6
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  6
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  6
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  7
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  7
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  7
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  7
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  7
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  7
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  7
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  7
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  7
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  7
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  8
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  8
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  8
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  8
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  8
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  8
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  8
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  8
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  8
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  8
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  9
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  9
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  9
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  9
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  9
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  9
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  9
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  9
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  9
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  9
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  10
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  10
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  10
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  10
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  10
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  10
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  10
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  10
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  10
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  4
+e  10
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  5
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  5
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  5
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  5
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  5
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  5
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  5
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  5
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  5
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  5
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  6
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  6
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  6
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  6
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  6
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  6
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  6
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  6
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  6
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  6
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  7
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  7
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  7
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  7
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  7
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  7
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  7
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  7
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  7
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  7
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  8
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  8
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  8
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  8
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  8
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  8
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  8
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  8
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  8
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  8
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  9
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  9
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  9
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  9
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  9
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  9
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  9
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  9
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  9
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  9
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  10
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  10
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  10
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  10
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  10
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  10
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  10
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  10
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  10
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  5
+e  10
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  5
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  5
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  5
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  5
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  5
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  5
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  5
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  5
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  5
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  5
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  6
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  6
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  6
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  6
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  6
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  6
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  6
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  6
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  6
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  6
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  7
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  7
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  7
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  7
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  7
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  7
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  7
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  7
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  7
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  7
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  8
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  8
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  8
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  8
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  8
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  8
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  8
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  8
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  8
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  8
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  9
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  9
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  9
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  9
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  9
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  9
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  9
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  9
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  9
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  9
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  10
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  10
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  10
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  10
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  10
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  10
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  10
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  10
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  10
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  6
+e  10
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  5
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  5
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  5
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  5
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  5
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  5
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  5
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  5
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  5
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  5
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  6
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  6
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  6
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  6
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  6
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  6
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  6
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  6
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  6
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  6
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  7
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  7
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  7
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  7
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  7
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  7
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  7
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  7
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  7
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  7
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  8
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  8
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  8
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  8
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  8
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  8
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  8
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  8
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  8
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  8
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  9
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  9
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  9
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  9
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  9
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  9
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  9
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  9
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  9
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  9
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  10
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  10
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  10
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  10
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  10
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  10
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  10
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  10
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  10
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  7
+e  10
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  5
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  5
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  5
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  5
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  5
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  5
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  5
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  5
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  5
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  5
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  6
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  6
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  6
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  6
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  6
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  6
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  6
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  6
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  6
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  6
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  7
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  7
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  7
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  7
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  7
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  7
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  7
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  7
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  7
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  7
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  8
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  8
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  8
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  8
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  8
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  8
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  8
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  8
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  8
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  8
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  9
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  9
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  9
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  9
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  9
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  9
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  9
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  9
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  9
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  9
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  10
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  10
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  10
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  10
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  10
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  10
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  10
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  10
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  10
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  8
+e  10
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  5
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  5
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  5
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  5
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  5
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  5
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  5
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  5
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  5
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  5
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  6
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  6
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  6
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  6
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  6
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  6
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  6
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  6
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  6
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  6
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  7
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  7
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  7
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  7
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  7
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  7
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  7
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  7
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  7
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  7
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  8
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  8
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  8
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  8
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  8
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  8
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  8
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  8
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  8
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  8
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  9
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  9
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  9
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  9
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  9
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  9
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  9
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  9
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  9
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  9
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  10
+c  1
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  10
+c  2
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  10
+c  3
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  10
+c  4
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  10
+c  5
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  10
+c  6
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  10
+c  7
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  10
+c  8
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  10
+c  9
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+g  9
+e  10
+c  10
+transfer of  dfaplot_v.0.0.pdf  successful
+transfer of  findiff_dfa.pdf  successful
+transfer of  ts_binned.v.0.0.pdf  successful
+transfer of  eps  successful
+transfer of  graph.pkl  successful
+transfer of  avgvolt.sr.1.v.0.dfa  successful
+done
