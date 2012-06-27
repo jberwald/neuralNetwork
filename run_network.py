@@ -7,7 +7,9 @@ try:
     from neural_network.C import neurons_file_cells as neurons
     from neural_network.core import timeseries as TS
 except ImportError:
-    print "Could not load neurons.so (or similar) module. We'll try to continue..." 
+    import neurons_file_cells as neurons
+    print "Could not load neurons*.so (or similar) module. "\
+        "Will try to continue with local version..." 
     pass
 
 def make_input_dict( neural_network, extE=0.5, extI=0.3 ):
