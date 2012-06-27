@@ -7,7 +7,9 @@ try:
     from neural_network.C import neurons_file_cells as neurons
     from neural_network.core import timeseries as TS
 except ImportError:
-    print "Could not load neurons.so (or similar) module. We'll try to continue..." 
+    import neurons_file_cells as neurons
+    print "Could not load neurons*.so (or similar) module. "\
+        "Will try to continue with local version..." 
     pass
 
 def make_input_dict( neural_network, extE=0.5, extI=0.3 ):
@@ -17,9 +19,14 @@ def make_input_dict( neural_network, extE=0.5, extI=0.3 ):
     nn = neural_network
     # grab universal params from single cell
     cell = nn.network.node[ (0,'e') ]['cell']
-    # make external input vectors - constant values for each type of cell
-    externE = extE * numpy.ones( nn.EDIM )
-    externI = extI * numpy.ones( nn.IDIM )
+    # make external input vectors - constant values for each type of
+    # cell To select individual or random cells to provide input to,
+    # we have to create a vector with only a single entry, or a random
+    # 0,1 vector for more than one excited cell.
+    externE = extE * numpy.random.random_integers( 0, 1, (1, nn.EDIM) )
+    externI = extI * numpy.random.random_integers( 0, 1, (1, nn.IDIM) )
+    # externE = extE * numpy.ones( nn.EDIM )
+    # externI = extI * numpy.ones( nn.IDIM )
     # populate cell_input
     cell_input = cell.params
     cell_input['epsilon'] = nn.epsvec
