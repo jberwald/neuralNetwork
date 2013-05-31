@@ -94,7 +94,7 @@ def run_simulation( neural_network, tfinal, **args ):
     module.
     
     This function calls neurons.solve_network(). The solution is
-    stored in self.soln.
+    stored in soln.
     
     Required args passed to neurons.solve_network() in this order:
     
@@ -217,7 +217,7 @@ def run( theNetwork ):
 if __name__ == "__main__":
 
     basedir_help = "Path to folders containing graphs, epsilon vectors, "\
-                   "connection vectors, etc. [/data/jberwald/neurons]"
+                   "connection vectors, etc. [./neurons]"
     tfinal_help = "Length of simulation, number of time steps. [1e4]"
     graph_name_help = "Name of graph file, instead of a number."
     epsvec_help = "Path to epsilon vector file."
@@ -244,7 +244,7 @@ if __name__ == "__main__":
                       type="string",
                       action="store",
                       dest="basedir",
-                      default="/data/jberwald/neurons")
+                      default="./data/")
     parser.add_option("--tfinal", "-t",
                       help=tfinal_help,
                       type="int",
@@ -256,7 +256,7 @@ if __name__ == "__main__":
                       type="string",
                       action="store",
                       dest="graph_name",
-                      default='./data/graph.1.30.pkl')
+                      default='graph.1.30.pkl')
     parser.add_option("--epsvec", "-e",
                       help=epsvec_help,
                       type="string",

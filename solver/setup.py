@@ -35,7 +35,7 @@ if sys.platform == 'darwin':
        GSL_INCLUDE = '/opt/local/include/'
        GSL_LIB = '/opt/local/lib/'
        ARCH = 'x86_64'
-       compile_args = ['-O3', '-DHAVE_INLINE', '-msse3' ]#, '-march=intel']
+       compile_args = ['-O3', '-DHAVE_INLINE']#, '-march=intel']
        
        # vars = sysconfig.get_config_vars()
 
@@ -67,7 +67,7 @@ elif sys.platform == 'linux2':
 
        print 'home', GSL_INCLUDE
 
-fname = "neurons_file_cells"
+fname = "neurons_cells"
 
 includen=[numpy.get_include(), GSL_INCLUDE] # or /usr/include/gsl
 
